@@ -1,0 +1,1 @@
+This simple script for ESP8266 uses AHT10 and PIR sensor to monitor room's temperature, humidity, light level and human (or animal) presence.
