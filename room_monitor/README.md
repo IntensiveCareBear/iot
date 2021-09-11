@@ -1,1 +1,1 @@
-This simple script for ESP8266 uses AHT10 and PIR sensor to monitor room's temperature, humidity, light level and human (or animal) presence.
+This simple script for ESP32 uses various sensors to monitor temperature, light, humidity and human (or animal) presence. It reports the data to an MQTT broker.
